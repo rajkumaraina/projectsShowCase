@@ -1,0 +1,55 @@
+.mainContainer {
+}
+.navBar {
+  background-color: #cbd5e1;
+  padding: 8px;
+}
+.secondContainer {
+  padding: 18px;
+}
+.logoImg {
+  width: 150px;
+  height: 65px;
+  margin-left: 55px;
+}
+.selectElement {
+  height: 45px;
+  font-size: 20px;
+  width: 350px;
+}
+.unordered {
+  display: flex;
+  flex-wrap: wrap;
+}
+.loading {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 100vh;
+  align-items: center;
+}
+.image {
+  width: 350px;
+  height: 350px;
+}
+.errorHeading {
+  color: #000000;
+  font-size: 25px;
+  margin-bottom: 0;
+}
+.failureView {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 100vh;
+  align-items: center;
+}
+.errorButton {
+  background-color: #328af2;
+  color: #ffffff;
+  border: 0 none;
+  outline: none;
+  padding: 8px;
+  width: 85px;
+  cursor: pointer;
+}
